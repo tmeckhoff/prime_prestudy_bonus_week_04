@@ -1,0 +1,18 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background: #A0A8C4;
+    background: linear-gradient(right, #A0A8C4, #747C99);
+    background: -webkit-linear-gradient(right, #A0A8C4, #747C99);   
+    background: -moz-linear-gradient(right, #A0A8C4, #747C99);
+    background: -ms-linear-gradient(right, #A0A8C4, #747C99);
+    background: -o-linear-gradient(right, #A0A8C4, #747C99);
+}
+
+header { 
+margin-left: 20px;
+font-family: "Arial Narrow", Sans-serif;
+font-size: 50px;
+color: #ffffff;
+}
